@@ -23,7 +23,7 @@ public class BookstoreTest {
 		assertTrue("project dependency should be met.", true);
 	}
 	
-	/*
+	/**
 	 * As a customer
 	 * I want the ability to add one or more books to the shopping cart
 	 * So that I can checkout them at their actual base price.
